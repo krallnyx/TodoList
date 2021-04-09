@@ -38,9 +38,9 @@ public class TodoItem {
     public void setDeadline(LocalDate deadline) {
         this.deadline = deadline;
     }
-
-    @Override
-    public String toString() {
-        return shortDescription;
-    }
+// We are using Cell factory now, not needed anymore
+//    @Override
+//    public String toString() {
+//        return shortDescription;
+//    }
 }
