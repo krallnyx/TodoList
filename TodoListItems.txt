@@ -5,3 +5,4 @@ Pickup Doug at the train station	Doug's arriving on March 23 on the 5:00 train	2
 Pick up dry cleaning	The clothes should be ready by Wednesday	20-04-2021
 Add Todo List app to Portfolio	Once this todo list is advanced enough, it should be added to my portfolio which lacks Java projects.	14-04-2021
 It's Saturday!	Just a test to check if tomorrow's todo items are shown in brown :)	10-04-2021
+Today's task	I need to test the Today's item button!	09-04-2021
